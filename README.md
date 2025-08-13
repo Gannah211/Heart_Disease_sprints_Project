@@ -16,34 +16,34 @@ It includes:
 
 ## 📂 Project Structure
 
-Heart_Disease_Project/
-│── data/
-│ ├── heart_disease.csv
-│
-│── notebooks/
-│ ├── 01_data_preprocessing.ipynb
-│ ├── 02_pca_analysis.ipynb
-│ ├── 03_feature_selection.ipynb
-│ ├── 04_supervised_learning.ipynb
-│ ├── 05_unsupervised_learning.ipynb
-│ ├── 06_hyperparameter_tuning.ipynb
-│ ├── 07_model_export.ipynb
-│ ├──model_meta.json
-│ ├──pca_heart_disease.csv
-│
-│── models/
-│ ├── final_model.pkl
-│ 
-│
-│── ui/
-│ ├── streamlit_app.py
-│
-│── results/
-│ ├── evaluation_metrics.txt
-│
-│── requirements.txt
-│── README.md
-│── .gitignore
+Heart_Disease_Project/ <br>
+│── data/<br>
+│ ├── heart_disease.csv<br>
+│<br>
+│── notebooks/<br>
+│ ├── 01_data_preprocessing.ipynb<br>
+│ ├── 02_pca_analysis.ipynb<br>
+│ ├── 03_feature_selection.ipynb<br>
+│ ├── 04_supervised_learning.ipynb<br>
+│ ├── 05_unsupervised_learning.ipynb<br>
+│ ├── 06_hyperparameter_tuning.ipynb<br>
+│ ├── 07_model_export.ipynb<br>
+│ ├──model_meta.json<br>
+│ ├──pca_heart_disease.csv<br>
+│<br>
+│── models/<br>
+│ ├── final_model.pkl<br>
+│ <br>
+│<br>
+│── ui/<br>
+│ ├── streamlit_app.py<br>
+│<br>
+│── results/<br>
+│ ├── evaluation_metrics.txt<br>
+│<br>
+│── requirements.txt<br>
+│── README.md<br>
+│── .gitignore<br>
 
 ---
 
@@ -58,8 +58,6 @@ The dataset contains medical attributes of patients, including:
 - Target: `0` → No heart disease, `1` → Heart disease present
 
 ---
-
-## ⚙️ Installation & Setup
 
 ## ⚙️ Installation & Setup
 
