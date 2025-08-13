@@ -1,0 +1,44 @@
+Model: Logistic Regression
+              precision    recall  f1-score   support
+
+           0       0.91      0.89      0.90        36
+           1       0.84      0.88      0.86        24
+
+    accuracy                           0.88        60
+   macro avg       0.88      0.88      0.88        60
+weighted avg       0.88      0.88      0.88        60
+AUC Score: 0.9468
+--------------------------------------------------
+Model: Decision Tree
+              precision    recall  f1-score   support
+
+           0       0.87      0.75      0.81        36
+           1       0.69      0.83      0.75        24
+
+    accuracy                           0.78        60
+   macro avg       0.78      0.79      0.78        60
+weighted avg       0.80      0.78      0.79        60
+AUC Score: 0.7917
+--------------------------------------------------
+Model: Random Forest
+              precision    recall  f1-score   support
+
+           0       0.91      0.89      0.90        36
+           1       0.84      0.88      0.86        24
+
+    accuracy                           0.88        60
+   macro avg       0.88      0.88      0.88        60
+weighted avg       0.88      0.88      0.88        60
+AUC Score: 0.9485
+--------------------------------------------------
+Model: SVM
+              precision    recall  f1-score   support
+
+           0       0.67      0.86      0.76        36
+           1       0.64      0.38      0.47        24
+
+    accuracy                           0.67        60
+   macro avg       0.66      0.62      0.61        60
+weighted avg       0.66      0.67      0.64        60
+AUC Score: 0.6788
+--------------------------------------------------
