@@ -82,6 +82,7 @@ pip install -r requirements.txt
 
 ```
 🚀 Running the Project
+
 1️⃣ Run the Jupyter notebooks
 Follow the order in the notebooks/ folder:
 
@@ -98,8 +99,6 @@ Follow the order in the notebooks/ folder:
 06_hyperparameter_tuning.ipynb → Optimize model performance
 
 07_model_export.ipynb → Export final model as .pkl and save metadata
-
----
 
 2️⃣ Run the Streamlit App
 
